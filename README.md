@@ -1,6 +1,6 @@
 # HTML5 Web Forms Personal Docs
 
-A personal docs for HTML5 Forms to help me remember the structure
+A personal docs for HTML5 Forms to help me remember the structure.
 Checkout `/src/lets_learn` for details or...
 
 ### Installation
