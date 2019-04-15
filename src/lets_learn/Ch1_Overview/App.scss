@@ -1,0 +1,15 @@
+html, body {
+
+  form {
+    :invalid {
+      background-color: #ffdddd;
+    }
+    :valid {
+      background-color: #ddffdd;
+    }
+    :required {
+      border-color: #800000;
+      border-width: 3px;
+    }
+  }
+}
